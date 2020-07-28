@@ -74,13 +74,13 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 
 ![](Snapshots/0.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/1.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/2.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/3.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/4.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/5.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/6.png)
-![](https://github.com/ankit0183/Wifi-Hacking/blob/master/Snapshots/7.png)
+![](Snapshots/1.png)
+![](Snapshots/2.png)
+![](Snapshots/3.png)
+![](Snapshots/4.png)
+![](Snapshots/5.png)
+![](Snapshots/6.png)
+![](Snapshots/7.png)
 
 
 
