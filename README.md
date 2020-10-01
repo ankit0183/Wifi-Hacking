@@ -71,7 +71,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 # SCREENSHOT
 
-
+![](https://asciinema.org/a/362908)
 
 ![](Snapshots/0.png)
 ![](Snapshots/1.png)
@@ -90,7 +90,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 
 
-- [Instagram](https://www.instagram.com/ankit_kanojiya57/)
+[![asciicast](https://asciinema.org/a/362908.svg)](https://asciinema.org/a/362908)
 
 
 - [Whats App](https://wa.me/+919768367597)
