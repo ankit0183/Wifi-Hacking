@@ -71,7 +71,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 # SCREENSHOT
 
-![](https://asciinema.org/a/362908)
 
 ![](Snapshots/0.png)
 ![](Snapshots/1.png)
