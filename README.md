@@ -89,7 +89,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 
 
-[![asciicast](https://asciinema.org/a/362908.svg)](https://asciinema.org/a/362908)
 
 
 - [Whats App](https://wa.me/+919768367597)
