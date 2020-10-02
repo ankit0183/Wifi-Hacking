@@ -50,6 +50,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 * Kali Nethunter
 * Termux
 * Parrot OS
+*elementory os
 
 
 # Installation
