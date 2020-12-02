@@ -50,7 +50,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 * BlackArch Linux
 * Ubuntu
 * Kali Nethunter
-* Termux
+* Termux ( Rooted Devices)
 * Parrot OS
 
 
@@ -98,7 +98,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ### Whats App Me: +919768367597   - [Click Hear](https://wa.me/+919768367597)
 
-
+### - [Instagram](https://www.instagram.com/ankit_kanojiya57/)
 
 
 # Disclaimer 
