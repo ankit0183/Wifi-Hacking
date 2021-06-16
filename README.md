@@ -90,15 +90,11 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 # Feel Free To Contact Me.
 
 
-
-
-
-- [Whats App](https://wa.me/+919768367597)
  
 
-### Whats App Me: +919768367597   - [Click Hear](https://wa.me/+919768367597)
+### Whats App Me: +919768367597  
 
-### - [Instagram](https://www.instagram.com/ankit_kanojiya57/)
+### - [Instagram](https://www.instagram.com/ankit_kanojiya69/)
 
 
 # Disclaimer 
