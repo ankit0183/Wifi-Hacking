@@ -1,3 +1,5 @@
+
+# coding: utf-8
 #!/usr/bin/env python
 import os
 import subprocess
@@ -186,7 +188,7 @@ Hi.
 My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on Instagram
 
-https://www.instagram.com/ankit_kanojiya57/
+https://www.instagram.com/ankit_kanojiya69/
 
 Contack me +919768367597
 
@@ -203,7 +205,7 @@ Feel Free to Contact,
             order = "aircrack-ng {} -w /usr/share/wordlists/rockyou.txt".format(path)
             print("\nTo exit Press CTRL +C")
             geny  = os.system(order)
-            sleep = os.system("sleep 3d")
+            sleep = os.system("sleep 5d")
             exit()
         elif os.path.exists("/usr/share/wordlists/rockyou.txt")==False:
             cmd = os.system("gzip -d /usr/share/wordlists/rockyou.txt.gz")
@@ -212,7 +214,7 @@ Feel Free to Contact,
             order = "aircrack-ng {} -w /usr/share/wordlists/rockyou.txt".format(path)
             print("\nTo exit Press CTRL +C")
             geny  = os.system(order)
-            sleep = os.system("sleep 3d")
+            sleep = os.system("sleep 5d")
             exit()
     elif var == 7 :
         print("\nEnter the path of the handshake file ?")
@@ -329,7 +331,7 @@ may reach to Hundreds of TeRa Bits so Be patiant
 
 0) Back to Main Menu
 """)
-        print("Choose the kind of the attack ?")
+        print("Choose the kind of the attack(External WIFI Adapter Require) ?")
         attack = int(input(""))
         if attack == 1:
             print("\nEnter the interface to start ?(Default(Wlan0mon/Wlan1mon))")
