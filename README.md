@@ -92,7 +92,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
  ### if you like my work, Buy me a Cup of Coffee PhonePay/PayTm/GPAy 9768367597
 
-### - [What`s App chat] (https://wa.me/+919768367597)
+### - [Whats App chat](https://wa.me/+919768367597)
 
 ### - [Instagram](https://www.instagram.com/ankit_kanojiya69/)
 
