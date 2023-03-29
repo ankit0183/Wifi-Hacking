@@ -188,7 +188,7 @@ Hi.
 My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on Instagram
 
-https://www.instagram.com/ankit_kanojiya69/
+https://www.instagram.com/ankit_kanojiiya/
 
 Contack me +919768367597
 
