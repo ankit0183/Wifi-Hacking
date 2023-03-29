@@ -94,7 +94,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ### - [Whats App chat](https://wa.me/+919768367597)
 
-### - [Instagram](https://www.instagram.com/ankit_kanojiya69/)
+### - [Instagram](https://www.instagram.com/ankit_kanojiiya/)
 
 
 # Disclaimer 
