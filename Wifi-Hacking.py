@@ -128,9 +128,6 @@ class WirelessTool:
         elif choice == "8":
             test = "!#$%/=?{}[]-*:;0123456789"
         elif choice == "9":
-Continuazione del codice riscritto:
-
-```python
             test = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
         elif choice == "10":
             test = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%/=?{}[]-*:;"
